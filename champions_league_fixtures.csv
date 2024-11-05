@@ -1,91 +1,119 @@
 date,time_or_status,home_team,away_team,match_id,home_score,away_score,home_odds,draw_odds,away_odds
-"Tuesday, Oct 01 2024",FT,Salzburg,Brest,1866220,0,4,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,VfB Stuttgart,Sparta Prague,1866237,1,1,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,PSV Eindhoven,Sporting CP,1866209,1,1,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Arsenal,Paris Saint-Germain,1866166,2,0,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Borussia Dortmund,Celtic,1866131,7,1,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Barcelona,BSC Young Boys,1866137,5,0,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Bayer Leverkusen,AC Milan,1866154,1,0,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Slovan Bratislava,Manchester City,1866104,0,4,N/A,N/A,N/A
-"Tuesday, Oct 01 2024",FT,Inter,FK Crvena Zvezda,1866108,4,0,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Shakhtar Donetsk,Atalanta,1866172,0,3,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Girona,Feyenoord,1866208,2,3,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Sturm Graz,Club Bruges,1866196,0,1,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Dinamo Zagreb,Monaco,1866218,2,2,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Benfica,Atletico Madrid,1866161,4,0,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Lille,Real Madrid,1866146,1,0,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Liverpool,Bologna,1866152,2,0,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,Aston Villa,Bayern Munich,1866119,1,0,N/A,N/A,N/A
-"Wednesday, Oct 02 2024",FT,RB Leipzig,Juventus,1866121,2,3,N/A,N/A,N/A
-"Tuesday, Oct 22 2024",17:45,AC Milan,Club Bruges,1866192,-,-,1.50,4.00,6.25
-"Tuesday, Oct 22 2024",17:45,Monaco,FK Crvena Zvezda,1866226,-,-,1.36,5.00,7.50
-"Tuesday, Oct 22 2024",20:00,Girona,Slovan Bratislava,1866233,-,-,1.18,7.50,13.00
-"Tuesday, Oct 22 2024",20:00,Aston Villa,Bologna,1866238,-,-,1.53,4.33,5.75
-"Tuesday, Oct 22 2024",20:00,Arsenal,Shakhtar Donetsk,1866187,-,-,1.09,9.50,21.00
-"Tuesday, Oct 22 2024",20:00,Sturm Graz,Sporting CP,1866212,-,-,7.00,4.75,1.40
-"Tuesday, Oct 22 2024",20:00,Juventus,VfB Stuttgart,1866180,-,-,1.75,3.60,4.50
-"Tuesday, Oct 22 2024",20:00,Real Madrid,Borussia Dortmund,1866127,-,-,1.48,4.75,5.75
-"Tuesday, Oct 22 2024",20:00,Paris Saint-Germain,PSV Eindhoven,1866167,-,-,1.50,4.75,5.75
-"Wednesday, Oct 23 2024",17:45,Atalanta,Celtic,1866173,-,-,1.45,4.75,6.00
-"Wednesday, Oct 23 2024",17:45,Brest,Bayer Leverkusen,1866159,-,-,6.00,4.50,1.48
-"Wednesday, Oct 23 2024",20:00,Atletico Madrid,Lille,1866162,-,-,1.50,4.33,6.00
-"Wednesday, Oct 23 2024",20:00,Manchester City,Sparta Prague,1866103,-,-,1.06,12.00,29.00
-"Wednesday, Oct 23 2024",20:00,BSC Young Boys,Inter,1866110,-,-,7.50,4.75,1.40
-"Wednesday, Oct 23 2024",20:00,Barcelona,Bayern Munich,1866113,-,-,2.55,3.75,2.50
-"Wednesday, Oct 23 2024",20:00,RB Leipzig,Liverpool,1866120,-,-,3.80,3.75,1.85
-"Wednesday, Oct 23 2024",20:00,Benfica,Feyenoord,1866184,-,-,1.57,4.10,5.25
-"Wednesday, Oct 23 2024",20:00,Salzburg,Dinamo Zagreb,1866217,-,-,1.65,4.10,4.75
-"Tuesday, Nov 05 2024",17:45,PSV Eindhoven,Girona,1866214,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",17:45,Slovan Bratislava,Dinamo Zagreb,1866219,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Bologna,Monaco,1866235,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Lille,Juventus,1866181,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Sporting CP,Manchester City,1866102,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Celtic,RB Leipzig,1866124,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Borussia Dortmund,Sturm Graz,1866133,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Real Madrid,AC Milan,1866143,-,-,N/A,N/A,N/A
-"Tuesday, Nov 05 2024",20:00,Liverpool,Bayer Leverkusen,1866148,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",17:45,Club Bruges,Aston Villa,1866195,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",17:45,Shakhtar Donetsk,BSC Young Boys,1866197,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,VfB Stuttgart,Atalanta,1866176,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,Sparta Prague,Brest,1866236,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,Feyenoord,Salzburg,1866205,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,Paris Saint-Germain,Atletico Madrid,1866160,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,FK Crvena Zvezda,Barcelona,1866138,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,Bayern Munich,Benfica,1866114,-,-,N/A,N/A,N/A
-"Wednesday, Nov 06 2024",20:00,Inter,Arsenal,1866106,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",17:45,Sparta Prague,Atletico Madrid,1866165,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",17:45,Slovan Bratislava,AC Milan,1866204,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Sporting CP,Arsenal,1866189,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,BSC Young Boys,Atalanta,1866174,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Bayer Leverkusen,Salzburg,1866156,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Barcelona,Brest,1866139,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Bayern Munich,Paris Saint-Germain,1866112,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Inter,RB Leipzig,1866105,-,-,N/A,N/A,N/A
-"Tuesday, Nov 26 2024",20:00,Manchester City,Feyenoord,1866101,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",17:45,FK Crvena Zvezda,VfB Stuttgart,1866225,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",17:45,Sturm Graz,Girona,1866239,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Bologna,Lille,1866223,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Celtic,Club Bruges,1866194,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Aston Villa,Juventus,1866182,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Monaco,Benfica,1866183,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,PSV Eindhoven,Shakhtar Donetsk,1866198,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Dinamo Zagreb,Borussia Dortmund,1866132,-,-,N/A,N/A,N/A
-"Wednesday, Nov 27 2024",20:00,Liverpool,Real Madrid,1866141,-,-,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,Juventus,PSV Eindhoven,1866178,3,1,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,BSC Young Boys,Aston Villa,1866228,0,3,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,Sporting CP,Lille,1866210,2,0,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,Bayern Munich,Dinamo Zagreb,1866116,9,2,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,Real Madrid,VfB Stuttgart,1866144,3,1,N/A,N/A,N/A
-"Tuesday, Sep 17 2024",FT,AC Milan,Liverpool,1866149,1,3,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",FT,Sparta Prague,Salzburg,1866221,3,0,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",N/A,Bologna,Shakhtar Donetsk,1866200,0,0,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",N/A,Manchester City,Inter,1866097,0,0,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",FT,Celtic,Slovan Bratislava,1866230,5,1,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",FT,Paris Saint-Germain,Girona,1866169,1,0,N/A,N/A,N/A
-"Wednesday, Sep 18 2024",FT,Club Bruges,Borussia Dortmund,1866130,0,3,N/A,N/A,N/A
-"Thursday, Sep 19 2024",FT,Feyenoord,Bayer Leverkusen,1866157,0,4,N/A,N/A,N/A
-"Thursday, Sep 19 2024",FT,FK Crvena Zvezda,Benfica,1866185,1,2,N/A,N/A,N/A
-"Thursday, Sep 19 2024",FT,Brest,Sturm Graz,1866240,2,1,N/A,N/A,N/A
-"Thursday, Sep 19 2024",N/A,Atalanta,Arsenal,1866171,0,0,N/A,N/A,N/A
-"Thursday, Sep 19 2024",FT,Monaco,Barcelona,1866140,2,1,N/A,N/A,N/A
-"Thursday, Sep 19 2024",FT,Atletico Madrid,RB Leipzig,1866122,2,1,N/A,N/A,N/A
+"Tuesday, Jan 02 2024",FT,Getafe,Rayo Vallecano,1734855,0,2,N/A,N/A,N/A
+"Tuesday, Jan 02 2024",FT,Real Sociedad,Deportivo Alaves,1734889,1,1,N/A,N/A,N/A
+"Tuesday, Jan 02 2024",FT,Valencia,Villarreal,1734860,3,1,N/A,N/A,N/A
+"Wednesday, Jan 03 2024",FT,Granada,Cadiz,1734883,2,0,N/A,N/A,N/A
+"Wednesday, Jan 03 2024",FT,Real Madrid,Mallorca,1734886,1,0,N/A,N/A,N/A
+"Wednesday, Jan 03 2024",FT,Celta Vigo,Real Betis,1734880,2,1,N/A,N/A,N/A
+"Wednesday, Jan 03 2024",FT,Girona,Atletico Madrid,1734873,4,3,N/A,N/A,N/A
+"Thursday, Jan 04 2024",FT,Osasuna,Almeria,1734865,1,0,N/A,N/A,N/A
+"Thursday, Jan 04 2024",FT,Sevilla,Athletic Club,1734869,0,2,N/A,N/A,N/A
+"Thursday, Jan 04 2024",FT,Las Palmas,Barcelona,1734877,1,2,N/A,N/A,N/A
+"Friday, Jan 12 2024",FT,Sevilla,Deportivo Alaves,1734917,2,3,N/A,N/A,N/A
+"Saturday, Jan 13 2024",FT,Las Palmas,Villarreal,1734911,3,0,N/A,N/A,N/A
+"Saturday, Jan 13 2024",FT,Mallorca,Celta Vigo,1734914,1,1,N/A,N/A,N/A
+"Saturday, Jan 13 2024",FT,Athletic Club,Real Sociedad,1734895,2,1,N/A,N/A,N/A
+"Saturday, Jan 13 2024",FT,Real Betis,Granada,1734902,1,0,N/A,N/A,N/A
+"Sunday, Jan 14 2024",FT,Almeria,Girona,1734892,0,0,N/A,N/A,N/A
+"Sunday, Jan 14 2024",FT,Cadiz,Valencia,1734905,1,4,N/A,N/A,N/A
+"Friday, Jan 19 2024",FT,Deportivo Alaves,Cadiz,1734926,1,0,N/A,N/A,N/A
+"Saturday, Jan 20 2024",FT,Rayo Vallecano,Las Palmas,1734946,0,2,N/A,N/A,N/A
+"Saturday, Jan 20 2024",FT,Villarreal,Mallorca,1734943,1,1,N/A,N/A,N/A
+"Saturday, Jan 20 2024",FT,Valencia,Athletic Club,1734931,1,0,N/A,N/A,N/A
+"Saturday, Jan 20 2024",FT,Celta Vigo,Real Sociedad,1734920,0,1,N/A,N/A,N/A
+"Sunday, Jan 21 2024",FT,Osasuna,Getafe,1734940,3,2,N/A,N/A,N/A
+"Sunday, Jan 21 2024",FT,Real Madrid,Almeria,1734928,3,2,N/A,N/A,N/A
+"Sunday, Jan 21 2024",FT,Real Betis,Barcelona,1734937,2,4,N/A,N/A,N/A
+"Sunday, Jan 21 2024",FT,Girona,Sevilla,1734923,5,1,N/A,N/A,N/A
+"Monday, Jan 22 2024",FT,Granada,Atletico Madrid,1734934,0,1,N/A,N/A,N/A
+"Friday, Jan 26 2024",FT,Almeria,Deportivo Alaves,1734780,0,3,N/A,N/A,N/A
+"Saturday, Jan 27 2024",N/A,Real Sociedad,Rayo Vallecano,1734972,0,0,N/A,N/A,N/A
+"Saturday, Jan 27 2024",FT,Las Palmas,Real Madrid,1734960,1,2,N/A,N/A,N/A
+"Saturday, Jan 27 2024",FT,Barcelona,Villarreal,1734952,3,5,N/A,N/A,N/A
+"Saturday, Jan 27 2024",FT,Mallorca,Real Betis,1734966,0,1,N/A,N/A,N/A
+"Sunday, Jan 28 2024",FT,Celta Vigo,Girona,1734954,0,1,N/A,N/A,N/A
+"Sunday, Jan 28 2024",N/A,Cadiz,Athletic Club,1734963,0,0,N/A,N/A,N/A
+"Sunday, Jan 28 2024",FT,Sevilla,Osasuna,1734969,1,1,N/A,N/A,N/A
+"Sunday, Jan 28 2024",FT,Atletico Madrid,Valencia,1734949,2,0,N/A,N/A,N/A
+"Monday, Jan 29 2024",FT,Getafe,Granada,1734957,2,0,N/A,N/A,N/A
+"Wednesday, Jan 31 2024",FT,Barcelona,Osasuna,1734899,1,0,N/A,N/A,N/A
+"Wednesday, Jan 31 2024",FT,Atletico Madrid,Rayo Vallecano,1734897,2,1,N/A,N/A,N/A
+"Thursday, Feb 01 2024",FT,Getafe,Real Madrid,1734908,0,2,N/A,N/A,N/A
+"Friday, Feb 02 2024",FT,Athletic Club,Mallorca,1734783,4,0,N/A,N/A,N/A
+"Saturday, Feb 03 2024",FT,Valencia,Almeria,1734801,2,1,N/A,N/A,N/A
+"Saturday, Feb 03 2024",FT,Granada,Las Palmas,1734795,1,1,N/A,N/A,N/A
+"Saturday, Feb 03 2024",FT,Deportivo Alaves,Barcelona,1734798,1,3,N/A,N/A,N/A
+"Saturday, Feb 03 2024",N/A,Girona,Real Sociedad,1734789,0,0,N/A,N/A,N/A
+"Sunday, Feb 04 2024",N/A,Villarreal,Cadiz,1734807,0,0,N/A,N/A,N/A
+"Sunday, Feb 04 2024",FT,Osasuna,Celta Vigo,1734811,0,3,N/A,N/A,N/A
+"Sunday, Feb 04 2024",FT,Real Betis,Getafe,1734786,1,1,N/A,N/A,N/A
+"Sunday, Feb 04 2024",FT,Real Madrid,Atletico Madrid,1734804,1,1,N/A,N/A,N/A
+"Monday, Feb 05 2024",FT,Rayo Vallecano,Sevilla,1734792,1,2,N/A,N/A,N/A
+"Friday, Feb 09 2024",FT,Cadiz,Real Betis,1734838,0,2,N/A,N/A,N/A
+"Saturday, Feb 10 2024",FT,Deportivo Alaves,Villarreal,1734830,1,1,N/A,N/A,N/A
+"Saturday, Feb 10 2024",FT,Real Sociedad,Osasuna,1734850,0,1,N/A,N/A,N/A
+"Saturday, Feb 10 2024",FT,Real Madrid,Girona,1734846,4,0,N/A,N/A,N/A
+"Saturday, Feb 10 2024",FT,Las Palmas,Valencia,1734826,2,0,N/A,N/A,N/A
+"Sunday, Feb 11 2024",FT,Getafe,Celta Vigo,1734842,3,2,N/A,N/A,N/A
+"Sunday, Feb 11 2024",FT,Mallorca,Rayo Vallecano,1734822,2,1,N/A,N/A,N/A
+"Sunday, Feb 11 2024",FT,Sevilla,Atletico Madrid,1734834,1,0,N/A,N/A,N/A
+"Sunday, Feb 11 2024",FT,Barcelona,Granada,1734818,3,3,N/A,N/A,N/A
+"Monday, Feb 12 2024",FT,Almeria,Athletic Club,1734814,0,0,N/A,N/A,N/A
+"Friday, Feb 16 2024",FT,Villarreal,Getafe,1734881,1,1,N/A,N/A,N/A
+"Saturday, Feb 17 2024",FT,Atletico Madrid,Las Palmas,1734858,5,0,N/A,N/A,N/A
+"Saturday, Feb 17 2024",FT,Osasuna,Cadiz,1734878,2,0,N/A,N/A,N/A
+"Saturday, Feb 17 2024",FT,Celta Vigo,Barcelona,1734874,1,2,N/A,N/A,N/A
+"Saturday, Feb 17 2024",N/A,Valencia,Sevilla,1734884,0,0,N/A,N/A,N/A
+"Sunday, Feb 18 2024",FT,Rayo Vallecano,Real Madrid,1734866,1,1,N/A,N/A,N/A
+"Sunday, Feb 18 2024",FT,Granada,Almeria,1734870,1,1,N/A,N/A,N/A
+"Sunday, Feb 18 2024",FT,Mallorca,Real Sociedad,1734862,1,2,N/A,N/A,N/A
+"Sunday, Feb 18 2024",N/A,Real Betis,Deportivo Alaves,1734887,0,0,N/A,N/A,N/A
+"Monday, Feb 19 2024",FT,Athletic Club,Girona,1734854,3,2,N/A,N/A,N/A
+"Friday, Feb 23 2024",FT,Real Sociedad,Villarreal,1734904,1,3,N/A,N/A,N/A
+"Saturday, Feb 24 2024",FT,Barcelona,Getafe,1734893,4,0,N/A,N/A,N/A
+"Saturday, Feb 24 2024",FT,Deportivo Alaves,Mallorca,1734913,1,1,N/A,N/A,N/A
+"Saturday, Feb 24 2024",FT,Almeria,Atletico Madrid,1734890,2,2,N/A,N/A,N/A
+"Sunday, Feb 25 2024",FT,Cadiz,Celta Vigo,1734896,2,2,N/A,N/A,N/A
+"Sunday, Feb 25 2024",FT,Real Betis,Athletic Club,1734916,3,1,N/A,N/A,N/A
+"Sunday, Feb 25 2024",FT,Las Palmas,Osasuna,1734910,1,1,N/A,N/A,N/A
+"Sunday, Feb 25 2024",FT,Real Madrid,Sevilla,1734901,1,0,N/A,N/A,N/A
+"Monday, Feb 26 2024",FT,Girona,Rayo Vallecano,1734898,3,0,N/A,N/A,N/A
+"Friday, Mar 01 2024",FT,Celta Vigo,Almeria,1734929,1,0,N/A,N/A,N/A
+"Saturday, Mar 02 2024",FT,Sevilla,Real Sociedad,1734941,3,2,N/A,N/A,N/A
+"Saturday, Mar 02 2024",FT,Rayo Vallecano,Cadiz,1734932,1,1,N/A,N/A,N/A
+"Saturday, Mar 02 2024",FT,Getafe,Las Palmas,1734925,3,3,N/A,N/A,N/A
+"Saturday, Mar 02 2024",FT,Valencia,Real Madrid,1734938,2,2,N/A,N/A,N/A
+"Sunday, Mar 03 2024",FT,Villarreal,Granada,1734944,5,1,N/A,N/A,N/A
+"Sunday, Mar 03 2024",FT,Atletico Madrid,Real Betis,1734922,2,1,N/A,N/A,N/A
+"Sunday, Mar 03 2024",FT,Mallorca,Girona,1734935,1,0,N/A,N/A,N/A
+"Sunday, Mar 03 2024",N/A,Athletic Club,Barcelona,1734919,0,0,N/A,N/A,N/A
+"Monday, Mar 04 2024",FT,Osasuna,Deportivo Alaves,1734947,1,0,N/A,N/A,N/A
+"Friday, Mar 08 2024",FT,Barcelona,Mallorca,1734956,1,0,N/A,N/A,N/A
+"Saturday, Mar 09 2024",FT,Valencia,Getafe,1734978,1,0,N/A,N/A,N/A
+"Saturday, Mar 09 2024",FT,Cadiz,Atletico Madrid,1734974,2,0,N/A,N/A,N/A
+"Saturday, Mar 09 2024",FT,Granada,Real Sociedad,1734965,2,3,N/A,N/A,N/A
+"Saturday, Mar 09 2024",FT,Girona,Osasuna,1734962,2,0,N/A,N/A,N/A
+"Sunday, Mar 10 2024",FT,Deportivo Alaves,Rayo Vallecano,1734968,1,0,N/A,N/A,N/A
+"Sunday, Mar 10 2024",FT,Las Palmas,Athletic Club,1734971,0,2,N/A,N/A,N/A
+"Sunday, Mar 10 2024",FT,Real Madrid,Celta Vigo,1734976,4,0,N/A,N/A,N/A
+"Sunday, Mar 10 2024",FT,Real Betis,Villarreal,1734959,2,3,N/A,N/A,N/A
+"Monday, Mar 11 2024",FT,Almeria,Sevilla,1734950,2,2,N/A,N/A,N/A
+"Friday, Mar 15 2024",FT,Real Sociedad,Cadiz,1734988,2,0,N/A,N/A,N/A
+"Saturday, Mar 16 2024",FT,Mallorca,Granada,1734782,1,0,N/A,N/A,N/A
+"Saturday, Mar 16 2024",FT,Osasuna,Real Madrid,1734984,2,4,N/A,N/A,N/A
+"Saturday, Mar 16 2024",FT,Getafe,Girona,1734982,1,0,N/A,N/A,N/A
+"Saturday, Mar 16 2024",FT,Athletic Club,Deportivo Alaves,1734785,2,0,N/A,N/A,N/A
+"Sunday, Mar 17 2024",FT,Sevilla,Celta Vigo,1734989,1,2,N/A,N/A,N/A
+"Sunday, Mar 17 2024",FT,Villarreal,Valencia,1734990,1,0,N/A,N/A,N/A
+"Sunday, Mar 17 2024",FT,Las Palmas,Almeria,1734986,0,1,N/A,N/A,N/A
+"Sunday, Mar 17 2024",FT,Rayo Vallecano,Real Betis,1734987,2,0,N/A,N/A,N/A
+"Sunday, Mar 17 2024",FT,Atletico Madrid,Barcelona,1734980,0,3,N/A,N/A,N/A
+"Friday, Mar 29 2024",FT,Cadiz,Granada,1734794,1,0,N/A,N/A,N/A
+"Saturday, Mar 30 2024",FT,Getafe,Sevilla,1734800,0,1,N/A,N/A,N/A
+"Saturday, Mar 30 2024",FT,Almeria,Osasuna,1734788,0,3,N/A,N/A,N/A
+"Saturday, Mar 30 2024",N/A,Valencia,Mallorca,1734817,0,0,N/A,N/A,N/A
+"Saturday, Mar 30 2024",FT,Barcelona,Las Palmas,1734791,1,0,N/A,N/A,N/A
+"Sunday, Mar 31 2024",N/A,Celta Vigo,Rayo Vallecano,1734797,0,0,N/A,N/A,N/A
+"Sunday, Mar 31 2024",FT,Girona,Real Betis,1734813,3,2,N/A,N/A,N/A
+"Sunday, Mar 31 2024",FT,Deportivo Alaves,Real Sociedad,1734803,0,1,N/A,N/A,N/A
+"Sunday, Mar 31 2024",FT,Real Madrid,Athletic Club,1734806,2,0,N/A,N/A,N/A
